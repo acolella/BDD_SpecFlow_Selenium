@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="18.5">
+  <applicationConfiguration>
+    <browserType>Firefox</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>www.voeazul.com.br</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions/>
+</recorderProject>
